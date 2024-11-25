@@ -1,2 +1,2 @@
 # my-first-project
-This is my first project on GitHub.
+his is a basic html file with basic css to practice using GitHub
